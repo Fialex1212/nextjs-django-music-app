@@ -1,0 +1,12 @@
+:root{
+  --background: #000000;
+  --text-color-primary: #ffffff;
+}
+
+body {
+  color: var(--text-color-primary);
+  background: var(--background);
+  font-family: var(--font-roboto-mono);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
